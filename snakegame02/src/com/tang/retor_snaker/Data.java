@@ -19,6 +19,7 @@ public class Data {
     private static ImageIcon down = new ImageIcon(Data.class.getResource("/com/tang/retor_snaker/im1/down.png"));
     private static ImageIcon left = new ImageIcon(Data.class.getResource("/com/tang/retor_snaker/im1/left.png"));
     private static ImageIcon right = new ImageIcon(Data.class.getResource("/com/tang/retor_snaker/im1/right.png"));
+    //////git test
 
     public static ImageIcon getBody() {
         return body;
