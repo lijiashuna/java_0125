@@ -7,7 +7,7 @@ public class Data {
 //    private static URL bodyURL = Data.class.getResource("/com/tang/retor_snaker/image/body.png");
 //    private static ImageIcon body = new ImageIcon(bodyURL);
 //    private static ImageIcon food = new ImageIcon(Data.class.getResource("/com/tang/retor_snaker/image/food.png"));
-//
+//  why my code can not load images
 //    private static ImageIcon up = new ImageIcon(Data.class.getResource("/com/tang/retor_snaker/image/up.png"));
 //    private static ImageIcon down = new ImageIcon(Data.class.getResource("/com/tang/retor_snaker/image/down.png"));
 //    private static ImageIcon left = new ImageIcon(Data.class.getResource("/com/tang/retor_snaker/image/left.png"));

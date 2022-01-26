@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TestSnakeGame/TestSnakeGame.iml" filepath="$PROJECT_DIR$/TestSnakeGame/TestSnakeGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/netcode_heima/netcode_heima.iml" filepath="$PROJECT_DIR$/netcode_heima/netcode_heima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/snakegame02/snakegame02.iml" filepath="$PROJECT_DIR$/snakegame02/snakegame02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test_project0118.iml" filepath="$PROJECT_DIR$/test_project0118.iml" />
+    </modules>
+  </component>
+</project>
