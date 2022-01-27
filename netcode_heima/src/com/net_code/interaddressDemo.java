@@ -5,9 +5,11 @@ import java.net.InetAddress;
 
 public class interaddressDemo {
     public static void main(String[] args) throws UnknownHostException {
-        InetAddress address=InetAddress.getByName("192.168.0.102");
+        InetAddress address=InetAddress.getByName("itheima");
         //LAPTOP-BJ4THLCS
         //System.out.println(address);
+        //InetAddress address=InetAddress.getByAddress("LAPTOP-BJ4THLCS");
+        System.out.println(address);
         String hostname=address.getHostName();
         String hostaddress=address.getHostAddress();
         System.out.println(hostname);
